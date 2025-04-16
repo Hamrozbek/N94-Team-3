@@ -28,3 +28,13 @@ body {
     margin: 0 auto;
     padding: 0 20px;
 }
+.navbar-bg{
+    backdrop-filter: blur(81.54845428466797px);
+    background: #FFFFFF0A;
+  }
+.box{
+    background: url(../images/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
